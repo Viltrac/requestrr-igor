@@ -4,12 +4,12 @@
 [![DockerHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=for-the-badge&logo=github)](https://github.com/thomst08/requestrr/)
 
 
-Requestrr 
+Requestrr - Igor Version
 =================
 
 ![logo](https://i.imgur.com/0UzLYvw.png)
 
-Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Overseerr/Ombi via the use of chat!  
+Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Overseerr/Ombi via the use of chat! This version speaks like Igor!
 
 ### Features
 
@@ -20,6 +20,7 @@ Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr
 - Overseerr integration with support for per user permissions/quotas and issue submission
 - Ombi (V3/V4) integration with support for per user roles/quotas and issue submission
 - Fully configurable via a web portal
+- Igor
 
 <br />
 
