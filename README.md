@@ -3,6 +3,7 @@
 [![DockerHub](https://img.shields.io/badge/Docker-Hub-%23099cec?style=for-the-badge&logo=docker)](https://hub.docker.com/r/thomst08/requestrr)
 [![DockerHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=for-the-badge&logo=github)](https://github.com/thomst08/requestrr/)
 
+These links will take you to the owner of the master repository. You are not donating to me. Donate to them or join their discussion if you'd like!
 
 Requestrr - Igor Version
 =================
